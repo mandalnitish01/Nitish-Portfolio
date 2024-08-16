@@ -252,7 +252,7 @@ span{
 
 
 
-
+/* 
 .wave{
     position: absolute;
     bottom: 0;
@@ -271,7 +271,7 @@ span{
 
 .wave .shape-fill {
     fill: #2d2f3b;
-}
+} */
 
 
 
@@ -485,9 +485,9 @@ span{
 
 @media (max-width: 730px)
 {
-    .wave {
+    /* .wave {
        display: none;
-    }
+    } */
      .header{
     display: flex;
     /* flex-direction: column; */
